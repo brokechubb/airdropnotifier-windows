@@ -1,9 +1,10 @@
 # Discord Airdrop Notifier - Windows Version
 
-A Discord client that monitors channels for cryptocurrency airdrops and provides comprehensive Windows-specific notifications including sound alerts, text-to-speech, native Windows toast notifications, and message boxes.
+A Discord client that monitors channels for top.cc cryptocurrency airdrops and provides comprehensive Windows-specific notifications including sound alerts, text-to-speech, native Windows toast notifications, and message boxes.
 
 ## Features
 
+- **Monitors and notifys on ALL your Discord Servers**: Even if notifications are off and/or muted.
 - **Multi-modal Notifications**: Combines sound, speech, toast notifications, and message boxes
 - **Cryptocurrency Detection**: Monitors for popular cryptocurrencies (BTC, ETH, DOGE, LTC, etc.)
 - **Windows Integration**: Native Windows notifications with clickable message boxes
