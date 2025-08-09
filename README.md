@@ -161,3 +161,14 @@ The bot detects airdrops for: BTC, LTC, DOGE, EOS, TRX, USDT, ETH, XNO, BCH, USD
 ⚠️ **This uses a regular Discord user account (not a bot token) which may violate Discord's Terms of Service. Use at your own risk.**
 
 The application is designed to monitor only (never posts messages) but Discord's automation policies still apply.
+
+## Support the Project
+
+If you find this Discord Airdrop Notifier useful and it has helped you catch some profitable airdrops, consider supporting the development with a small donation! 🍺
+
+**Cryptocurrency Donations:**
+- **SOL**: `FVDejAWbUGsgnziRvFi4eGkJZuH6xuLviuTdi2g4Ut3o`
+- **LTC**: `ltc1qs0f9zas6nkk0nypmqtr0g4pehc344gd245g5m0`
+- **ETH**: `0x9bd5140cC0F9751A8EcC88d4143b16DD821a89f1`
+
+Your support helps maintain and improve this project. Every contribution is appreciated! 🙏
