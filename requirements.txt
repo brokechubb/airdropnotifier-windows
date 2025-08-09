@@ -1,0 +1,21 @@
+# Discord library (self-bot version) - IMPORTANT: Install 'discord.py-self', NOT 'discord'
+discord.py-self>=2.0.0
+
+# Rich console formatting and display
+rich>=13.0.0
+
+# Windows-specific dependencies
+pywin32>=305    # Windows API access for native notifications and message boxes
+plyer>=2.0      # Cross-platform notifications (toast notifications)
+pyttsx3>=2.90   # Text-to-speech engine for Windows
+
+# Build dependencies (for creating executable)
+pyinstaller>=5.0.0  # For creating standalone executable
+
+# Note: The following are built-in Python modules (no installation needed):
+# - os (file system operations)
+# - re (regular expressions for crypto detection)
+# - sys (system operations)
+# - subprocess (process management)
+# - webbrowser (opening Discord URIs)
+# - platform (OS detection)

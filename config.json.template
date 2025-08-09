@@ -1,0 +1,25 @@
+{
+    "discord_token": "YOUR_DISCORD_TOKEN_HERE",
+    "muted_servers": [
+        587764595888881670,
+        110175050006577152,
+        889596056550125608
+    ],
+    "muted_channels": [],
+    "settings": {
+        "tts_enabled": true,
+        "tts_rate": 150,
+        "tts_volume": 0.8,
+        "sound_enabled": true,
+        "notifications_enabled": true,
+        "auto_open_discord": false
+    },
+    "comments": {
+        "discord_token": "Your Discord user account token - see README for how to obtain",
+        "muted_servers": "List of server IDs to ignore (right-click server > Copy Server ID)",
+        "muted_channels": "List of channel IDs to ignore (right-click channel > Copy Channel ID)",
+        "tts_rate": "Text-to-speech speed (words per minute, 100-300)",
+        "tts_volume": "Text-to-speech volume (0.0 to 1.0)",
+        "auto_open_discord": "Automatically open Discord when airdrop detected"
+    }
+}
