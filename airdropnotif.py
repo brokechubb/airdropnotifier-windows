@@ -122,6 +122,8 @@ class MyClient(discord.Client):
                    ██║╚██╗██║██║   ██║   ██║   ██║██╔══╝  ██║██╔══╝  ██╔══██╗
                    ██║ ╚████║╚██████╔╝   ██║   ██║██║     ██║███████╗██║  ██║
                    ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
+                  Created by @brokechubb on Discord  |  https://t.me/codestats2
+                        SOL: FVDejAWbUGsgnziRvFi4eGkJZuH6xuLviuTdi2g4Ut3o
         [/dark_orange]"""
         print(banner)
         print(f'[yellow]Logged on as {self.user.name}! (Windows Version)[/yellow]')
